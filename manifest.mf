@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+X-COMMENT: Main-Class will be added automatically by build
+SplashScreen-Image: secureip/resources/splash.png
+Main-Class: secureip.SecureIPApp
+
+
